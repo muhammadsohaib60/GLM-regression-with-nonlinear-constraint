@@ -1,1 +1,1 @@
-# muhammadsohaib60-GLM-regression-with-nonlinear-constraint
+GLM-regression-with-nonlinear-constraint
